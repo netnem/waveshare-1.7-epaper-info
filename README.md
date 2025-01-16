@@ -5,4 +5,4 @@ Copy waveshare_epd into the same directory as this script
 e-ink.py
 waveshare_epd (folder) from the .zip from waveshare.
 
-This was created for https://www.amazon.com/dp/B07Z1WYRQH?ref=ppx_yo2ov_dt_b_fed_asin_title
+This was created for https://www.amazon.com/dp/B07Z1WYRQH 2.13in e-ink screen
